@@ -1,5 +1,5 @@
 # ROSiK  
-**Robot Operating System — interactive Kit**  
+**Robot Operating System - interactive Kit**  
 
 ![Робот ROSik](/images/ROSik.png)
 

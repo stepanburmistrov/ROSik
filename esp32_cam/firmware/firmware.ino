@@ -2,8 +2,8 @@
 #include <WiFi.h>
 
 // ====== Ваши настройки сети ======
-const char* ssid = "robotx";
-const char* password = "78914040";
+const char* ssid = "net";
+const char* password = "pass";
 
 // ====== Настройки камеры (не трогать) ======
 #define PWDN_GPIO_NUM     32
